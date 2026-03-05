@@ -1,8 +1,3 @@
-Signal ID: FlowD\flow
-Start Time: 5/30/2024 8:59:00 PM
-Unit: s
-Signal Type: Impuls
-
 30.05.2024 23:48:45,119-23:49:01,408; 16;Hypopnea; N1
 30.05.2024 23:50:16,578-23:50:33,546; 17;Hypopnea; N1
 30.05.2024 23:52:13,626-23:52:27,268; 14;Hypopnea; N1
